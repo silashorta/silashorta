@@ -1,18 +1,13 @@
-<!--
-**silashorta/silashorta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1>Olá, eu sou o Silas! 😎</h1>
+
+<br>
+<div>
+- 🔭 Estou atualmente em busca de uma vaga de emprego<br>
+- 🌱 Estou estudando JavaScript<br>
+- ⚡ Fun fact: Adoro música! Toco 🎹 e 🎸<br>
+</div>
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/silashorta">
@@ -26,7 +21,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" />                  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" />   
+
 </div>
 
 <br>
